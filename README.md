@@ -6,5 +6,9 @@
 ⚠️ The central reflection highlights the importance of a consistent strategic approach, adapting as needed for different types of deliveries.
 
 
-# :code: Coding Time
-The path `./problem` has the code used to choose the transportation method without the Strategy Pattern. Look `./solution` to see how the problem was solved using the Strategy Pattern.
+# :man_technologist: Coding Time
+:file_folder: The path `./problem` has the code used to choose the transportation method without the Strategy Pattern. Look `./solution` to see how the problem was solved using the Strategy Pattern.
+
+
+# :receipt: Explanation
+:link: [Unraveling the Strategy Pattern: A Practical Case Study](https://dev.to/pedrohnq/unraveling-the-strategy-pattern-a-practical-case-study-349g)
